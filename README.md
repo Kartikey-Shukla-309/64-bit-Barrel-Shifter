@@ -2,7 +2,7 @@
 
 This is a small verilog project on a 64-bit Barrel shifter.
 
-A Barrel shifter is a high-speed digital circuit that shifts a 64-bit data word left or right by a specified number of bits (0-63) in a single clock cycle, using combinational logic (multiplexers) instead of sequential logic, enabling arithmetic, logical, and rotation operations.
+A Barrel shifter is a high-speed digital circuit that shifts a 64-bit data word left or right by a specified number of bits (0-63) in a single clock cycle, using combinational logic (multiplexers) instead of sequential logic, enabling arithmetic and logical shift operations.
 
 Inputs-
   1. 64-bit input data
