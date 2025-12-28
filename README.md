@@ -14,4 +14,4 @@ Output-
   1. Output data
   2. Zero flag
 
-<img width="1268" height="408" alt="image" src="https://github.com/user-attachments/assets/0ad2a30a-53e7-4e2e-a1c3-3574181501bd" />
+<img width="1268" height="708" alt="image" src="https://github.com/user-attachments/assets/0ad2a30a-53e7-4e2e-a1c3-3574181501bd" />
